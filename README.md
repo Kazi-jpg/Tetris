@@ -1,37 +1,44 @@
-﻿🎮 Tetris — Python Game
+## ﻿🎮 Tetris — Python Game
 
 A fully functional Tetris game built using Python, Tkinter, and Turtle Graphics.
 Designed with simple controls, a clean UI, and an easy-to-read code structure.
 
-📸 Demo
+## 📸 Demo
 <p align="center"> <img src="assets/demo_tetris.png" width="450"> </p>
-✨ Features
--Play / Pause UI buttons
--Hard drop functionality
--Smooth block movement & rotation
--Collision + stacking logic
--Line clearing system
--Custom UI (buttons instead of keyboard-only controls)
--Clean multi-file Python architecture
+
+## ✨ Features
+- Play / Pause UI buttons  
+- Hard drop functionality  
+- Smooth block movement & rotation  
+- Collision + stacking logic  
+- Line clearing system  
+- Custom UI (buttons instead of keyboard-only controls)  
+- Clean multi-file Python architecture  
 
 
-🚀 How to Run
-1. Download the Game Files
+
+## 🚀 How to Run
+
+### 1. Download the Game Files
+Place these files in the same folder:
 "cx10_Farhaaan.py"
 "tetro_base.py"
 "tetrominoes.py"
 
-2. Open the Folder in VS Code
 
--Open VS Code
--Click File → Open Folder
--Select the Tetro folder
+### 2. Open the Folder in VS Code
+- Open VS Code  
+- Click **File → Open Folder**  
+- Select the Tetro folder  
 
-3. Run the Game
--Open cx10_Farhaaan.py
--Click Run in the top-right
+### 3. Run the Game
 
-🎮 Controls
+**Option — VS Code Run Button**
+- Open `cx10_Farhaaan.py`  
+- Click **Run** (top-right)
+
+
+## 🎮 Controls
 
 | Action       | Input             |
 | ------------ | ----------------- |
@@ -45,3 +52,4 @@ Designed with simple controls, a clean UI, and an easy-to-read code structure.
 📄 License
 
 Free for educational and personal use.
+
